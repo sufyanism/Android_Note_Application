@@ -1,5 +1,5 @@
 # Journal Notes Application
-A simple timer with start, pause and stop button to learn how to use activity lifecycle.
+A simple notes application where you can use create, edit, update your daily goals and make list.
 
 ### Install Android Studio
 * Download Studio `https://developer.android.com/studio` and once installed, launch Android Studio.
