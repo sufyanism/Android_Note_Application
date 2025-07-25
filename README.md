@@ -20,14 +20,21 @@ A simple notes application where you can use create, edit, update your daily goa
 * Finish the Setup:
 Click Finish to create the project. Android Studio will set up the necessary files and dependencies.
 
+### Set Up Android Emulator or Physical Device
+Ensure ANDROID_HOME is set
+
+## (Optional) Run via Android Studio 
+1. Open Android Studio.
+2. Open your project.
+3. Choose the target device (emulator/phone).
+4. Click Run.
+
+
 # ScreenShot
 #![Note](https://github.com/user-attachments/assets/c734e3fa-2929-4c7b-9719-b2f564ffc946)
 
-
 ## ScreenCast
 https://github.com/user-attachments/assets/37288da5-e920-4a72-967c-1f78099c198c
-
-
 
 
 
