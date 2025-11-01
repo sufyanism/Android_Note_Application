@@ -24,6 +24,8 @@ A simple notes application where you can use create, edit, update your daily goa
 * Finish the Setup:
 Click Finish to create the project. Android Studio will set up the necessary files and dependencies.
 
+</br>
+
 ## Set Up Android Emulator or Physical Device
 Ensure ANDROID_HOME is set
 
@@ -42,10 +44,11 @@ Ensure ANDROID_HOME is set
 
 https://github.com/user-attachments/assets/37288da5-e920-4a72-967c-1f78099c198c
 
+</br>
+
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
-
 </br>
 
 ## Your all-in-one learning hub! 
@@ -62,6 +65,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 </br>
 
 **Thank you for visiting!** 
+
 
 
 
