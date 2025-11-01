@@ -1,12 +1,16 @@
 # Journal Notes Application
 A simple notes application where you can use create, edit, update your daily goals and make list.
 
+</br>
+
 ## Install Android Studio
 * Download Studio `https://developer.android.com/studio` and once installed, launch Android Studio.
 * Open Your Project & Open an existing project from the Android Studio home screen.
 *Navigate to your project folder and select the root folder of your Android project.
 * Once your project is open, Android Studio will automatically sync the Gradle files.
 * Wait for the sync to complete. You’ll see a progress bar at the bottom, and Android Studio will fetch dependencies and configure your project for build.
+
+</br>
   
 ## Create a New Project in Android Studio:
 * Open Android Studio and select Create New Project.
@@ -23,12 +27,15 @@ Click Finish to create the project. Android Studio will set up the necessary fil
 ## Set Up Android Emulator or Physical Device
 Ensure ANDROID_HOME is set
 
+</br>
+
 ## (Optional) Run via Android Studio 
 1. Open Android Studio.
 2. Open your project.
 3. Choose the target device (emulator/phone).
 4. Click Run.
 
+</br>
 
 # Demo
 #![Note](https://github.com/user-attachments/assets/c734e3fa-2929-4c7b-9719-b2f564ffc946)
@@ -55,6 +62,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 </br>
 
 **Thank you for visiting!** 
+
 
 
 
